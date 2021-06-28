@@ -1,4 +1,5 @@
 #--mount é mais verboso do que utilizar -v ou --volume
+# Volumes são criados e gerenciados pelo docker
 
 #Criando um disco utilizando -v
 # meuPrimeiroVolume:/path/inContainer:ro
