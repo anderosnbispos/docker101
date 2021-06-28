@@ -18,3 +18,7 @@ docker run -d --name container-volume -p 80:80 --mount source=meuPrimeiroVolume,
 
 #Inspecione o container criado
 docker inspect container-volume
+
+#para dar o ls no volume no MacOS
+docker run -it --privileged --pid=host debian nsenter -t 1 -a bash
+ls /var/lib/docker
