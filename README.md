@@ -4,7 +4,7 @@ Esse repositório é uma cópia de: https://github.com/luistkd4/docker101, todos
 
 Cópia criada para fins didáticos.
 
-Fiz uma única atualização na aula de storage com uma diga de como acessar os volumes docker no mac. (com base em https://stackoverflow.com/questions/38532483/where-is-var-lib-docker-on-mac-os-x)
+Fiz uma única atualização na aula de storage com uma dica de como acessar os volumes docker no mac. (com base em https://stackoverflow.com/questions/38532483/where-is-var-lib-docker-on-mac-os-x)
 
 ## Daqui segue o conteúdo original do README.
 
