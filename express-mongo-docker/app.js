@@ -10,8 +10,11 @@ app = express();
 app.use(express.json());
 app.use(bodyParser.urlencoded({extended: false}));
 
+// app.get('/', function (req, res) {
+//   res.send('Hello World!\n');
+// });
 app.get('/', function (req, res) {
-  res.send('Hello World!\n');
+  res.send('Ola Mundols!\n');
 });
 
 // create user
